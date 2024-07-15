@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <external-path
+            name="output_photos"
+            path="Android/data/com.invictus.pillstracker/files/photos" />
+    </paths>
+</resources>
+

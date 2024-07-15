@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#212121</color>
+
+    <color name="colorSecondaryVariant">#1255A2</color>
+
+    <color name="colorAccent">@color/colorDetoxSessionPage</color>
+    <color name="colorDetoxSessionPage">#27C498</color>
+
+    <color name="nav_item_active">#0059BE</color>
+
+    <color name="page_bg">#F8FCFE</color>
+    <color name="progress_page_section_tag">#013945</color>
+    <color name="inner_page_status_bar">#EBF2F6</color>
+
+
+    //All colors
+    <color name="overlay_dark_40">#66000000</color>
+    <color name="overlay_dark_60">#99000000</color>
+
+    <color name="orange_gradient_button_top">#F59910</color>
+    <color name="orange_gradient_button_bottom">#fc4a1a</color>
+
+
+    <color name="approve_terms_message">#CECECE</color>
+    <color name="main_action_button">#089A7E</color>
+
+</resources>
